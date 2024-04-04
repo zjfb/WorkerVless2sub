@@ -12,7 +12,7 @@ Telegram全能搜索王：[@BingCN](https://t.me/BingCN)
 
 [https://edgetunnel.github.io/edgetunnel/](https://github.com/cmliu/edgetunnel)
 
-https://github.com/cmliu/WorkerVless2sub/tree/main
+[https://github.com/cmliu/WorkerVless2sub/tree/main](https://github.com/cmliu/WorkerVless2sub)
 
    - 项目代码来自于YouTube博主[CM喂饭 干货满满](https://www.youtube.com/@CMLiussss)
 
