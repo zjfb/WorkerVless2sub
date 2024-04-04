@@ -14,9 +14,9 @@ Telegram全能搜索王：[@BingCN](https://t.me/BingCN)
 
 https://github.com/cmliu/WorkerVless2sub/tree/main
 
-# 项目代码来自于YouTube博主[CM喂饭 干货满满](https://www.youtube.com/@CMLiussss)
+   - 项目代码来自于YouTube博主[CM喂饭 干货满满](https://www.youtube.com/@CMLiussss)
 
-# Pages 部署方法 [视频教程](https://youtu.be/zckWQW-C39k)
+# Pages 部署方法 [关注博主](https://www.youtube.com/onezyhcn)
 
 **Pages部署方式不做文字说明，请自行观看视频教程**
 
